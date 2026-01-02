@@ -1,0 +1,5 @@
+{
+  "name": "vercel-node-xss-demo",
+  "private": true,
+  "type": "module"
+}
